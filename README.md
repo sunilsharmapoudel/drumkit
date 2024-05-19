@@ -1,6 +1,6 @@
 # DurnKit - Fun with all drum sets.
 
-This is complete project on using DOM manupulation while learning Full Stack.
+This is complete project on using DOM manipulation while learning Full Stack.
 ## Table of contents
 
 - [Overview](#overview)
